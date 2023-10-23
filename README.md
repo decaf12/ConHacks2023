@@ -54,7 +54,7 @@ cd ../ConHacks
 4. Set up your .NET environment and start the server
 5. Run the frontend
 ```sh
-cd ../flashcard-conhacks-2023
+cd ../ConHacks2023
 npm start
 ```
 Your application should now be running on localhost:3000 (or whatever your specified port is).
